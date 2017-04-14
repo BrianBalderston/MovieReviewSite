@@ -1,0 +1,64 @@
+
+.hidden
+{
+	display: none;
+}
+
+
+body
+{
+	background-color: #8de141;
+	
+	
+	
+	
+	font-family:Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+
+
+p
+{
+	border-radius: 10px;
+}
+
+
+img
+{
+	border-radius: 10px;
+}
+
+
+#themovies
+{
+
+	background-color: #ade74b;
+	/*background-color: brown;*/
+	border-radius: 10px;
+	
+}
+
+.arraytitle
+{
+	margin: 0 auto;
+	color: black;
+	
+	font-size: 18px;
+	
+	text-overflow:inherit;
+	display:block;
+}
+
+.filterNav
+{
+	margin-bottom: 70px;
+	background-color: pink;
+}
+
+#moreinfo
+{
+	background-color: #f9d831;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+
